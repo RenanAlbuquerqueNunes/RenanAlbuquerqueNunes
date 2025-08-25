@@ -26,10 +26,26 @@
 <h3 align="center">📊 Estatísticas e Atividade</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanAlbuquerqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&hide=issues,prs" alt="Estatísticas do GitHub" style="margin-right: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlbuquerqueNunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanAlbuquerqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" style="margin-right: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlbuquerqueNunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas">
 </div>
 
 ---
 
 <h3 align="center">📫 Conecte-se comigo</h3>
+
+<p align="center">
+  <a href="URL_DO_SEU_LINKEDIN" target="_blank" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="URL_DO_SEU_EMAIL" target="_blank" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="URL_DO_SEU_GITHUB" target="_blank" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Desenvolvedor no computador" width="200">
+</p>

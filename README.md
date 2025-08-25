@@ -29,11 +29,11 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="center">📊 Estatísticas e Atividade</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanAlbuquerqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&hide=issues,prs" alt="Estatísticas do GitHub" style="margin-right: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlbuquerqueNunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanAlbuquerqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" style="margin-right: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlbuquerqueNunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas">
 </div>
 
 ---

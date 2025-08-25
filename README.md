@@ -35,7 +35,7 @@
 <h3 align="center">📫 Conecte-se comigo</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/renan-albuquerque-nunes" target="_blank" style="margin: 5px;">
+  <a href="[www.linkedin.com/in/renan-albuquerque-nunes](https://www.linkedin.com/in/renan-albuquerque-nunes/)" target="_blank" style="margin: 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:renanalnunes999@gmail.com" target="_blank" style="margin: 5px;">

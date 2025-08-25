@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Renan Albuquerque Nunes 👋</h1>
+<h1 align="center">Olá! Sou o Renan Albuquerque👋</h1>
 
 <p align="center">
   Sou um desenvolvedor <strong>Full-stack</strong> com foco em transformar ideias em soluções de código eficientes e escaláveis. Atualmente, estou cursando Ciência da Computação na UNIP, buscando aprimorar minhas habilidades e conhecimentos em engenharia de software.
@@ -27,9 +27,6 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
@@ -38,9 +35,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -66,9 +60,6 @@
   </a>
   <a href="URL_DO_SEU_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="URL_DO_SEU_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 

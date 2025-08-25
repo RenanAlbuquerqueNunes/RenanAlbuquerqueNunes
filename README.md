@@ -1,10 +1,6 @@
 <h1 align="center">Olá! Sou o Renan Albuquerque Nunes 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L831zL1KjHnFk0l3e0/giphy.gif" alt="Rocket GIF" width="50" style="margin-bottom: 20px;">
-</p>
-
-<p align="center">
   Sou um desenvolvedor <strong>Full-stack</strong> com foco em transformar ideias em soluções de código eficientes e escaláveis. Atualmente, estou cursando Ciência da Computação na UNIP, buscando aprimorar minhas habilidades e conhecimentos em engenharia de software.
 </p>
 

@@ -35,14 +35,11 @@
 <h3 align="center">📫 Conecte-se comigo</h3>
 
 <p align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank" style="margin: 5px;">
+  <a href="www.linkedin.com/in/renan-albuquerque-nunes" target="_blank" style="margin: 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="URL_DO_SEU_EMAIL" target="_blank" style="margin: 5px;">
+  <a href="mailto:renanalnunes999@gmail.com" target="_blank" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="URL_DO_SEU_GITHUB" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 

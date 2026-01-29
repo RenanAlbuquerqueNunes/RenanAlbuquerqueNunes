@@ -30,6 +30,7 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 | :--- | :--- |
 | **App Laudo** | Sistema robusto para geração de laudos técnicos de engenharia, com foco em automação de fluxos. |
 | **Sistema Estoque** | Gestão de inventário moderna com interface responsiva e foco em experiência do usuário. |
+| **App de torneio** | Um App que auxilia na organização de torneios, ajudando em relatorios e confrontos para os organizadores. |
 
 ---
 

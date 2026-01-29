@@ -65,21 +65,17 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 
 ---
 
----
-
 ### 📫 Vamos conversar?
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/renan-albuquerque-nunes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> 
   <a href="mailto:renanalnunes999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br/>
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Tech" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=100&section=footer" />
 </div>

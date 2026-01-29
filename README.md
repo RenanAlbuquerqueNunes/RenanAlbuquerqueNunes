@@ -65,6 +65,8 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 
 ---
 
+---
+
 ### 📫 Vamos conversar?
 
 <div align="center">
@@ -74,4 +76,10 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
   <a href="mailto:renanalnunes999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Tech" width="400">
 </div>

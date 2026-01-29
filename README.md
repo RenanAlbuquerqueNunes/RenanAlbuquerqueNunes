@@ -26,10 +26,10 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 
 ### 📂 Projetos em Destaque
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **App Laudo** | Sistema completo para geração de laudos técnicos de engenharia. | [Ver Repositório](https://github.com/RenanAlbuquerqueNunes) |
-| **Sistema Estoque** | Gestão de inventário moderna utilizando React e Vite. | [Ver Repositório](https://github.com/RenanAlbuquerqueNunes) |
+| Projeto | Descrição |
+| :--- | :--- |
+| **App Laudo** | Sistema robusto para geração de laudos técnicos de engenharia, com foco em automação de fluxos. |
+| **Sistema Estoque** | Gestão de inventário moderna com interface responsiva e foco em experiência do usuário. |
 
 ---
 

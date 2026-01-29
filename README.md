@@ -20,7 +20,7 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 
 - 🎓 Cursando **Ciência da Computação** na UNIP (Campus Marquês).
 - 🛠️ Atuando com **React, Node.js e TypeScript**.
-- 💡 Interessado em automação, marketing de afiliados e arquitetura de software.
+- 💡 Interessado em arquitetura de software, automação e marketing de afiliados.
 
 ---
 
@@ -45,10 +45,6 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
-
----
-
----
 
 ---
 

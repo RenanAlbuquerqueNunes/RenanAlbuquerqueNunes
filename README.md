@@ -50,16 +50,17 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 
 ---
 
+---
+
 ### 📊 Minhas Estatísticas
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanAlbuquerqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlbuquerqueNunes&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanAlbuquerqueNunes&theme=tokyonight" />
-</p>
+</div>
 
 ---
 

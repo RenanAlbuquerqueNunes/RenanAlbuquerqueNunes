@@ -65,6 +65,8 @@ Desenvolvedor apaixonado por transformar ideias em código limpo e escalável. A
 
 ---
 
+---
+
 ### 📫 Vamos conversar?
 
 <p align="center">
